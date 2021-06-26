@@ -1,0 +1,13 @@
+D:\Tits\Artem-Kondratovich-Academy-Test-Task\Artem-Kondratovich-Academy-Test-Task\bin\Debug\netcoreapp3.1\Artem-Kondratovich-Academy-Test-Task.exe
+D:\Tits\Artem-Kondratovich-Academy-Test-Task\Artem-Kondratovich-Academy-Test-Task\bin\Debug\netcoreapp3.1\Artem-Kondratovich-Academy-Test-Task.deps.json
+D:\Tits\Artem-Kondratovich-Academy-Test-Task\Artem-Kondratovich-Academy-Test-Task\bin\Debug\netcoreapp3.1\Artem-Kondratovich-Academy-Test-Task.runtimeconfig.json
+D:\Tits\Artem-Kondratovich-Academy-Test-Task\Artem-Kondratovich-Academy-Test-Task\bin\Debug\netcoreapp3.1\Artem-Kondratovich-Academy-Test-Task.runtimeconfig.dev.json
+D:\Tits\Artem-Kondratovich-Academy-Test-Task\Artem-Kondratovich-Academy-Test-Task\bin\Debug\netcoreapp3.1\Artem-Kondratovich-Academy-Test-Task.dll
+D:\Tits\Artem-Kondratovich-Academy-Test-Task\Artem-Kondratovich-Academy-Test-Task\bin\Debug\netcoreapp3.1\Artem-Kondratovich-Academy-Test-Task.pdb
+D:\Tits\Artem-Kondratovich-Academy-Test-Task\Artem-Kondratovich-Academy-Test-Task\obj\Debug\netcoreapp3.1\Artem-Kondratovich-Academy-Test-Task.csprojAssemblyReference.cache
+D:\Tits\Artem-Kondratovich-Academy-Test-Task\Artem-Kondratovich-Academy-Test-Task\obj\Debug\netcoreapp3.1\Artem-Kondratovich-Academy-Test-Task.AssemblyInfoInputs.cache
+D:\Tits\Artem-Kondratovich-Academy-Test-Task\Artem-Kondratovich-Academy-Test-Task\obj\Debug\netcoreapp3.1\Artem-Kondratovich-Academy-Test-Task.AssemblyInfo.cs
+D:\Tits\Artem-Kondratovich-Academy-Test-Task\Artem-Kondratovich-Academy-Test-Task\obj\Debug\netcoreapp3.1\Artem-Kondratovich-Academy-Test-Task.csproj.CoreCompileInputs.cache
+D:\Tits\Artem-Kondratovich-Academy-Test-Task\Artem-Kondratovich-Academy-Test-Task\obj\Debug\netcoreapp3.1\Artem-Kondratovich-Academy-Test-Task.dll
+D:\Tits\Artem-Kondratovich-Academy-Test-Task\Artem-Kondratovich-Academy-Test-Task\obj\Debug\netcoreapp3.1\Artem-Kondratovich-Academy-Test-Task.pdb
+D:\Tits\Artem-Kondratovich-Academy-Test-Task\Artem-Kondratovich-Academy-Test-Task\obj\Debug\netcoreapp3.1\Artem-Kondratovich-Academy-Test-Task.genruntimeconfig.cache

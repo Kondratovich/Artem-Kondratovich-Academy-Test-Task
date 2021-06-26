@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Artem_Kondratovich_Academy_Test_Task</RootNamespace>
+  </PropertyGroup>
+
+</Project>
